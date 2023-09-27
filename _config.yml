@@ -4,15 +4,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h3> Evgeny Zotov  </h3>
   Strong skills in research, synthesize and articulate with and through DATA. Strong analytical thinker with problem-solving skills and result-oriented.  Has a Ph.D. in technical science (technology of machine building). Blogging and writing  papers on varies topic (with a little bit of zen).<br>
   
-  <br><b> Skills </b><br>
+  <br><h2> Skills </h2>
   - Python <br>
   - Data Mining <br>
   - Data Analysis <br>
   - Data Visualization <br>
   - Machine Learning <br>
-  
 
-<br> <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
