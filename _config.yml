@@ -1,10 +1,15 @@
 title: Evgeny Zotov # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b>Evgeny Zotov </b>
+  <h3>Evgeny Zotov </h3>
   <br>Strong skills in research, synthesize and articulate with DATA. Strong analytical thinker with problem-solving skills and result-oriented.  Has a Ph.D. in technical science (technology of machine building). Blogging and writing  papers on varies topics (with a little bit of zen).<br>
-  <b>Skills </b> 
-  <br><br>
+  <h3>Skills </h3> 
+  <br>Python
+  MySQL
+  Data Mining
+  Data Analysis
+  Data Visualization
+<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
