@@ -10,7 +10,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Data Mining<br>
   - Data Analysis<br>
   - Data Visualization <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>  
+  <br><strong> Skills: </strong><br>
+  <a href="mailto:ztvspn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white> Mail </a>
+  <a href="https://www.linkedin.com/in/example/">👔 LinkedIn</a> 
  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
