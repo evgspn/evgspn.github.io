@@ -11,8 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Data Analysis<br>
   - Data Visualization <br>
   <br>  
-  <a href="mailto:zotovsmart@gmail.com" style="text-decoration: none;color: black;" target="_blank"><img src="https://evgspn.github.io/images/icons/mail.png" style="width: 20px; margin-bottom:7px;"> Mail </a><br>
-  <a href="https://medium.com/@eztv" style="text-decoration: none;color: black;margin-top:-20px;" target="_blank"><img src="https://evgspn.github.io//images/icons/medium.png" style="width: 20px; margin-bottom:7px;"> Medium </a><br>
+  <a href="mailto:zotovsmart@gmail.com" style="text-decoration: none;color: black;" target="_blank"><img src="https://evgspn.github.io/images/icons/mail.png" style="width: 20px;"> Mail </a><br>
+  <a href="https://medium.com/@eztv" style="text-decoration: none;color: black;" target="_blank"><img src="https://evgspn.github.io//images/icons/medium.png" style="width: 20px;"> Medium </a><br>
   <a href="https://www.linkedin.com/in/example/">👔 LinkedIn</a> 
  
 remote_theme: pages-themes/minimal@v0.2.0
